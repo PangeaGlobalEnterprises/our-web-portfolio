@@ -26,8 +26,3 @@ https://pangea-global-enterprise.vercel.app/
 
 https://pge360-ahmad-zafars-projects-0b15c053.vercel.app/
 
-
-
-
-
-https://pge360-ahmad-zafars-projects-0b15c053.vercel.app/
